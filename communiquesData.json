@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titre": "Organisation de la Sortie Estivale",
+    "date": "2026-07-21",
+    "dateFormatee": "21 Juillet 2026",
+    "categorie": "Événement",
+    "badgeColor": "#c8902e",
+    "description": "Découvrez l'affiche officielle et toutes les informations pratiques relatives à notre grande sortie et excursion réunissant la communauté estudiantine comorienne.",
+    "pdfFiles": [],
+    "imageFiles": [
+      "sortie.jpeg"
+    ],
+    "important": true
+  },
+  {
+    "id": 2,
+    "titre": "Félicitations et Soutenances des Étudiants Comoriens à Fès",
+    "date": "2026-07-20",
+    "dateFormatee": "20 Juillet 2026",
+    "categorie": "Éducation",
+    "badgeColor": "#1a6b3a",
+    "description": "Le Bureau Régional de l'ACEM Fès adresse ses plus chaleureuses félicitations à nos étudiants et diplômés ayant brillamment soutenu leurs travaux de fin d'études.",
+    "pdfFiles": [],
+    "imageFiles": [
+      "soutenance.jpeg"
+    ],
+    "important": false
+  },
+  {
+    "id": 3,
+    "titre": "Rappel concernant le renouvellement de la carte de séjour",
+    "date": "2026-07-19",
+    "dateFormatee": "19 Juillet 2026",
+    "categorie": "Information",
+    "badgeColor": "#2563eb",
+    "description": "Le Bureau de l'ACEM Fès informe l'ensemble des étudiants comoriens résidant à Fès de bien vouloir vérifier la date de validité de leur carte de séjour au moins deux mois avant son expiration et de réunir l'ensemble des pièces requises (attestation de scolarité, contrat de bail, etc.) afin d'éviter tout retard ou pénalité auprès des services de la préfecture.",
+    "pdfFiles": [],
+    "imageFiles": [],
+    "important": false
+  }
+]
