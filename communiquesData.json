@@ -40,5 +40,19 @@
       "Conférence2026.jpeg"
     ],
     "important": true
+  },
+  {
+    "id": 4,
+    "titre": "Communiqué - Condoléances et Cérémonie de Doua",
+    "date": "2026-07-19",
+    "dateFormatee": "19 Juillet 2026",
+    "categorie": "Condoléances",
+    "badgeColor": "#1f2937",
+    "description": " Une cérémonie de Doua et de recueillement sera organisée en la mémoire du défunt, le dimanche 19 juillet, chez Fadel.",
+    "pdfFiles": [],
+    "imageFiles": [
+      "Wafat2026.jpeg"
+    ],
+    "important": false
   }
 ]
