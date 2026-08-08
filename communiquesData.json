@@ -11,7 +11,7 @@
     "imageFiles": [
       "sortie.jpeg"
     ],
-    "important": true
+    "important": false
   },
   {
     "id": 2,
@@ -30,8 +30,8 @@
   {
     "id": 3,
     "titre": "Point de presse - ACEM Fès 2026",
-    "date": "2026-08-08",
-    "dateFormatee": "08 Août 2026",
+    "date": "2026-08-06",
+    "dateFormatee": "06 Août 2026",
     "categorie": "Conférence",
     "badgeColor": "#7c3aed",
     "description": "Le Bureau Régional de l'ACEM Fès a le plaisir de vous convier à la grande Conférence Annuelle 2026. Retrouvez le visuel officiel et toutes les informations relatives à cet événement.",
@@ -39,6 +39,6 @@
     "imageFiles": [
       "Conférence2026.jpeg"
     ],
-    "important": false
+    "important": true
   }
 ]
