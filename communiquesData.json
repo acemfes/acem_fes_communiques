@@ -54,5 +54,19 @@
       "Wafat2026.jpeg"
     ],
     "important": false
+  },
+  {
+    "id": 5,
+    "titre": "Grande Excursion : Chefchaouen & Tétouan",
+    "date": "2026-07-14",
+    "dateFormatee": "14 Juillet 2026",
+    "categorie": "Événement",
+    "badgeColor": "#c8902e",
+    "description": "L'ACEM Fès organise une grande excursion à la découverte de Chefchaouen et Tétouan le samedi 01 Août 2026. Tarif: 150 DH / Personne. Départ à 06h00 depuis Kim Pool (Bim Montfleuri). Les places sont limitées !",
+    "pdfFiles": [],
+    "imageFiles": [
+      "Excursion2026.jpeg"
+    ],
+    "important": false
   }
 ]
