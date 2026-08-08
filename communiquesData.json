@@ -29,14 +29,16 @@
   },
   {
     "id": 3,
-    "titre": "Rappel concernant le renouvellement de la carte de séjour",
-    "date": "2026-07-19",
-    "dateFormatee": "19 Juillet 2026",
-    "categorie": "Information",
-    "badgeColor": "#2563eb",
-    "description": "Le Bureau de l'ACEM Fès informe l'ensemble des étudiants comoriens résidant à Fès de bien vouloir vérifier la date de validité de leur carte de séjour au moins deux mois avant son expiration et de réunir l'ensemble des pièces requises (attestation de scolarité, contrat de bail, etc.) afin d'éviter tout retard ou pénalité auprès des services de la préfecture.",
+    "titre": "Point de presse - ACEM Fès 2026",
+    "date": "2026-08-08",
+    "dateFormatee": "08 Août 2026",
+    "categorie": "Conférence",
+    "badgeColor": "#7c3aed",
+    "description": "Le Bureau Régional de l'ACEM Fès a le plaisir de vous convier à la grande Conférence Annuelle 2026. Retrouvez le visuel officiel et toutes les informations relatives à cet événement.",
     "pdfFiles": [],
-    "imageFiles": [],
+    "imageFiles": [
+      "Conférence2026.jpeg"
+    ],
     "important": false
   }
 ]
